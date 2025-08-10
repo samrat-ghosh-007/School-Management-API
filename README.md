@@ -8,7 +8,7 @@ A simple RESTful API to manage schools — add, view school records built using 
 
 You can access the live deployed API here:
 
-🔗 [School Management API Live](https://school-management-api-29y8.onrender.com)
+🔗 [https://school-management-api-29y8.onrender.com](https://school-management-api-29y8.onrender.com)
 
 ---
 
